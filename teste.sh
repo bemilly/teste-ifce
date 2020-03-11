@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#teste
 cd imagens-livros
 for imagem in *.jpg
 do 
